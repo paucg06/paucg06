@@ -31,8 +31,18 @@
     <img alt="Pau Cremades GitHub Profile" src="https://raw.githubusercontent.com//paucg06/paucg06/main/light_mainInfo.svg">
   </picture>
 </a>
+
 <p align="center">
   <a href="https://github.com/pau2006">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Indie+Game+Developer;2D+Graphic+Designer;8.5M+Views+Content+Creator;Multimedia+Engineer&font=ConsolasFallback&center=true&width=500&height=50&color=ffa657&vCenter=true&pause=1000&size=18" alt="Typing Effect" />
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://readme-typing-svg.herokuapp.com/?lines=Indie+Game+Developer;2D+Graphic+Designer;8.5M+Views+Content+Creator;Multimedia+Engineer&font=ConsolasFallback&center=true&width=500&height=50&color=58a6ff&vCenter=true&pause=1000&size=18"
+      />
+      <img
+        src="https://readme-typing-svg.herokuapp.com/?lines=Indie+Game+Developer;2D+Graphic+Designer;8.5M+Views+Content+Creator;Multimedia+Engineer&font=ConsolasFallback&center=true&width=500&height=50&color=ffa657&vCenter=true&pause=1000&size=18"
+        alt="Typing Effect"
+      />
+    </picture>
   </a>
 </p>
