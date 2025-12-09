@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://youtube.com/@eternodev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@eternodev"  /></a>
-<a href="https://www.tiktok.com/@eternodev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@eternodev" /></a>
-<a href="https://www.linkedin.com/in/paucg06/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="paucg06"/></a>
-<a href="https://instagram.com/eternodev/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white" alt="eternodev"  /></a>
 <a href = "https://eternodev.itch.io" target="blank"><img align="center" src="https://img.shields.io/badge/Itch.io-D14836?style=for-the-badge&logo=itch.io&logoColor=white" alt="@unsimpledev"  /></a>
+<a href="https://www.linkedin.com/in/paucg06/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="paucg06"/></a>
+<a href="https://instagram.com/eternodev/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-b7374c?style=for-the-badge&logo=instagram&logoColor=white" alt="eternodev"  /></a>
+<a href="https://www.tiktok.com/@eternodev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@eternodev" /></a>
 </p>
 <br>
 <a href="https://github.com/paucg06/paucg06">
