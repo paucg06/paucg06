@@ -9,11 +9,11 @@
     <a href="https://eternodev.itch.io">
       <img src="https://img.shields.io/badge/-Itch.io-fa5c5c?style=flat-square&logo=itch.io&logoColor=white" alt="Itch.io Badge">
     </a>
+      <a href="www.linkedin.com/in/paucg06">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
     <a href="https://youtube.com/@eternodev">
       <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Badge">
-    </a>
-    <a href="https://www.linkedin.com/">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
     <a href="https://instagram.com/eternodev">
       <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge">
