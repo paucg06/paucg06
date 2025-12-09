@@ -9,8 +9,9 @@ font-display: swap;
 size-adjust: 109%;
 }
   
-.big { font-size: 18px; }
-.small { font-size: 12px; }
+.big { font-size: 20px; }
+.small { font-size: 14px; }
+.italic { font-style: italic; }
 
 .key {fill: #ffa657;}
 .value {fill: #a5d6ff;}
@@ -23,11 +24,11 @@ text, tspan {white-space: pre;}
 <text x = "492.5" y="30" fill="#c9d1d9">
 <tspan x = "492.5" y="30"></tspan>
 <tspan x = "492.5" y="50" class="key" font-weight="bold">Hola, Soy Pau</tspan>
-<tspan x = "492.5" y="80" class="cc small">Ingeniero Multimedia | Game Developer | Creador de Contenido</tspan>
-<tspan x = "492.5" y="110" class="value small">Soy un programador y diseñador enfocado en el</tspan>
-<tspan x = "492.5" y="125" class="value small">desarrollo de videojuegos y apps móviles. Me</tspan>
-<tspan x = "492.5" y="140" class="value small">especializo en arte 2D, interfaces, fondos y personajes,</tspan>
-<tspan x = "492.5" y="155" class="value small"> personajes, creando proyectos de forma constante</tspan>
-<tspan x = "492.5" y="170" class="value small">durante los últimos cuatro años.</tspan>
+<tspan x = "492.5" y="80" class="cc small italic">Ingeniero Multimedia | Game Developer | Creador de Contenido</tspan>
+<tspan x = "492.5" y="110" class="value">Soy un programador y diseñador enfocado en el</tspan>
+<tspan x = "492.5" y="125" class="value">desarrollo de videojuegos y apps móviles. Me</tspan>
+<tspan x = "492.5" y="140" class="value">especializo en arte 2D, interfaces, fondos y personajes,</tspan>
+<tspan x = "492.5" y="155" class="value"> personajes, creando proyectos de forma constante</tspan>
+<tspan x = "492.5" y="170" class="value">durante los últimos cuatro años.</tspan>
 </text>
 </svg>
