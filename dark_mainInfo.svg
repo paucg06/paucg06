@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="300px" text-anchor="middle" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="220px" text-anchor="middle" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -19,11 +19,15 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="300px" fill="#161b22" rx="15"/>
+<rect width="985px" height="220px" fill="#161b22" rx="15"/>
 <text x = "492.5" y="30" fill="#c9d1d9">
 <tspan x = "492.5" y="30"></tspan>
-<tspan x = "492.5" y="50" class="key big" font-weight="bold">Hola, Soy Pau</tspan>
-<tspan x = "492.5" y="150" class="cc">8 Años Como Solo Developer</tspan>
-<tspan x = "492.5" y="90" class="value small">Universidad Alicante (UA)</tspan>
+<tspan x = "492.5" y="50" class="key" font-weight="bold">Hola, Soy Pau</tspan>
+<tspan x = "492.5" y="80" class="cc small">Ingeniero Multimedia | Game Developer | Creador de Contenido</tspan>
+<tspan x = "492.5" y="110" class="value small">Soy un programador y diseñador enfocado en el</tspan>
+<tspan x = "492.5" y="125" class="value small">desarrollo de videojuegos y apps móviles. Me</tspan>
+<tspan x = "492.5" y="140" class="value small">especializo en arte 2D, interfaces, fondos y personajes,</tspan>
+<tspan x = "492.5" y="155" class="value small"> personajes, creando proyectos de forma constante</tspan>
+<tspan x = "492.5" y="170" class="value small">durante los últimos cuatro años.</tspan>
 </text>
 </svg>
