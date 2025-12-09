@@ -33,6 +33,6 @@
 </a>
 <p align="center">
   <a href="https://github.com/pau2006">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Unity+Systems+Architect;F2P+Economy+Designer;6.5M+Views+Content+Creator;Manhwa+Style+Art+Direction&font=ConsolasFallback&center=true&width=500&height=50&color=ffa657&vCenter=true&pause=1000&size=18" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Indie+Game+Developer;2D+Graphic+Designer;8.5M+Views+Content+Creator;Multimedia+Engineer&font=ConsolasFallback&center=true&width=500&height=50&color=ffa657&vCenter=true&pause=1000&size=18" alt="Typing Effect" />
   </a>
 </p>
