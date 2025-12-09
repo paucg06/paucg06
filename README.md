@@ -4,25 +4,25 @@
     <img alt="Pau Cremades GitHub Profile" src="https://raw.githubusercontent.com//paucg06/paucg06/main/light_mode.svg">
   </picture>
 </a>
+
 <div align="center" style="font-family:'ConsolasFallback'; color:#ffa657;"
-  <p>
+<p>
     <a href="https://eternodev.itch.io">
-      <img src="https://img.shields.io/badge/-Itch.io-fa5c5c?style=flat-square&logo=itch.io&logoColor=white" alt="Itch.io Badge">
-    </a>
-      <a href="www.linkedin.com/in/paucg06">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+      <img style="margin:2px;" src="https://img.shields.io/badge/-Itch.io-a03a3a?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Badge">
     </a>
     <a href="https://youtube.com/@eternodev">
-      <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Badge">
+      <img style="margin:2px;" src="https://img.shields.io/badge/-YouTube-B22222?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge">
+    </a>
+    <a href="https://www.linkedin.com/in/paucg06/">
+      <img style="margin:2px;" src="https://img.shields.io/badge/-LinkedIn-005582?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
     <a href="https://instagram.com/eternodev">
-      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge">
+      <img style="margin:2px;" src="https://img.shields.io/badge/-Instagram-b7374c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
     </a>
     <a href="https://tiktok.com/@eternodev">
-      <img src="https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok Badge">
+      <img style="margin:2px;" src="https://img.shields.io/badge/-TikTok-1a1a1a?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge">
     </a>
   </p>
-
 </div>
 
 <a href="https://github.com/paucg06/paucg06">
