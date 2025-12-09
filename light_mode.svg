@@ -53,7 +53,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="150" class="cc">. </tspan>
 <tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programación</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Java, Python, C++, C#, C</tspan>
 <tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computadora</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">HTML, CSS, LaTeX</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Reales</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Español, Ingles, Valenciano</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Reales</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Español, Inglés, Valenciano</tspan>
 <tspan x="390" y="230" class="cc">. </tspan>
 <tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Apps</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Android Studio, Unity, Expo</tspan>
 <tspan x="390" y="270" class="cc">. </tspan><tspan class="key">VideoGames</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Unity, AGS, Unreal, Ren'py</tspan>
