@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="520px" font-size="18px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+}
+.title { fill: #ffa657; font-size: 26px; font-weight: bold; }
+.sectionTitle { fill: #ffa657; font-size: 20px; font-weight: bold; }
+.text { fill: #c9d1d9; }
+.sub { fill: #a5d6ff; font-style: italic; }
+</style>
+
+<rect width="985px" height="520px" fill="#161b22" rx="15"/>
+
+<!-- INTRO -->
+<text x="40" y="70" class="title">
+  <tspan x="40" y="70">Hola, soy Pau.</tspan>
+  <tspan x="40" y="105">Multimedia Engineer & Game Developer</tspan>
+  <tspan x="40" y="140" class="sub">Creo experiencias donde arte, código y narrativa se fusionan.</tspan>
+</text>
+
+<!-- ART / ILLUSTRATION -->
+<text x="40" y="200" class="sectionTitle">Arte & Ilustración Digital</text>
+<text x="40" y="230" class="text">
+  <tspan x="40" y="230">• Años creando arte para videojuegos y proyectos personales.</tspan>
+  <tspan x="40" y="255">• Pintura digital con <tspan class="sub">GIMP, Photoshop y Krita</tspan>.</tspan>
+  <tspan x="40" y="280">• Ilustración vectorial con <tspan class="sub">Inkscape e Illustrator</tspan>.</tspan>
+  <tspan x="40" y="305">• Dirección artística estilo manhwa para mis propios juegos.</tspan>
+</text>
+
+<!-- UI/UX -->
+<text x="40" y="360" class="sectionTitle">Diseño UI / UX</text>
+<text x="40" y="390" class="text">
+  <tspan x="40" y="390">• Diseño de interfaces para juegos, apps y prototipos.</tspan>
+  <tspan x="40" y="415">• Trabajo con <tspan class="sub">Photoshop, Figma y Canva</tspan>.</tspan>
+  <tspan x="40" y="440">• Creación de iconografía, layouts y experiencia visual coherente.</tspan>
+</text>
+
+<!-- CONTENT CREATOR -->
+<text x="40" y="495" class="sectionTitle">Creador de Contenido</text>
+<text x="40" y="525" class="text">
+  <tspan x="40" y="525">• +6.5M visualizaciones acumuladas entre plataformas.</tspan>
+  <tspan x="40" y="550">• Estrategia visual enfocada en contenidos breves y virales.</tspan>
+</text>
+
+</svg>
