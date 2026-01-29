@@ -23,7 +23,7 @@ text, tspan {white-space: pre;}
 <rect width="985px" height="180px" fill="#161b22" rx="15"/>
 <text x = "492.5" y="10" fill="#c9d1d9">
 <tspan x = "492.5" y="10"></tspan>
-<tspan x = "492.5" y="45" class="cc big italic">Lenguajes de Progración</tspan>
+<tspan x = "492.5" y="45" class="cc" font-weight="bold">Lenguajes de Progración</tspan>
 
 <tspan x = "492.5" y="75" class="value">Programador versátil especializado en el desarrollo</tspan>
 <tspan x = "492.5" y="92" class="value">de aplicaciones, videojuegos y sistemas complejos.</tspan>
