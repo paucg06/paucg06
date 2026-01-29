@@ -35,8 +35,30 @@
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
-  </a>
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,css,html,js,mysql,sqlite&perline=10" />
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,sublime&perline=10" />
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=blender,ai,ps,figma&perline=10" />
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=gmail,instagram,discord,linkedin&perline=10" />
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux&perline=10" />
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=unity,androidstudio,unreal,godot,gamemakerstudio&perline=10" />
 </p>
 <br>
