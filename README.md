@@ -35,7 +35,11 @@
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,css,html,js,mysql,sqlite&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py&perline=10" />
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,sqlite&perline=10" />
 </p>
 
 <p align="center">
