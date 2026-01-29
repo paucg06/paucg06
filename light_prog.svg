@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="225px" text-anchor="middle" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+  
+.big { font-size: 20px; }
+.small { font-size: 14px; }
+.italic { font-style: italic; }
+
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+
+<rect width="985px" height="225px" fill="#f6f8fa" rx="15"/>
+
+<text x = "492.5" y="30" fill="#24292f">
+<tspan x = "492.5" y="30"></tspan>
+
+<tspan x = "492.5" y="65" class="cc small italic">Lenguajes de Programación</tspan>
+
+<tspan x = "492.5" y="95" class="value">Programador versátil especializado en el desarrollo</tspan>
+<tspan x = "492.5" y="112" class="value">de aplicaciones, videojuegos y sistemas complejos.</tspan>
+<tspan x = "492.5" y="129" class="value">Domino múltiples lenguajes e integro herramientas</tspan>
+<tspan x = "492.5" y="146" class="value">de IA para potenciar el flujo de trabajo y acelerar</tspan>
+<tspan x = "492.5" y="163" class="value">la creación de mis proyectos.</tspan>
+</text>
+</svg>
