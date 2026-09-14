@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 import os, sys, json, re, urllib.request
 from datetime import datetime
 
@@ -104,8 +104,8 @@ def main():
     print("Estadísticas calculadas:", stats)
 
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    update_svg_file(os.path.join(base_dir, "dark_mode.svg"), stats)
-    update_svg_file(os.path.join(base_dir, "light_mode.svg"), stats)
+    update_svg_file(os.path.join(base_dir, "assets", "dark_svg", "dark_mode.svg"), stats)
+    update_svg_file(os.path.join(base_dir, "assets", "light_svg", "light_mode.svg"), stats)
     print("¡Sincronización completada con éxito!")
 
 if __name__ == "__main__":
