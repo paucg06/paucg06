@@ -19,8 +19,8 @@
 
 <!-- Texto Introduccion -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/assets/dark_svg/dark_mainInfo.svg">
-  <img alt="Pau Cremades GitHub Profile" src="https://raw.githubusercontent.com/paucg06/paucg06/main/assets/light_svg/light_mainInfo.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/assets/dark_svg/dark_mainInfo.svg?v=8">
+  <img alt="Pau Cremades GitHub Profile" src="https://raw.githubusercontent.com/paucg06/paucg06/main/assets/light_svg/light_mainInfo.svg?v=8">
 </picture>
 
 <!-- Typing Animacion -->
