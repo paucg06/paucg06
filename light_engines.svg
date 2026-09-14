@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="180px" text-anchor="middle" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+  
+.big { font-size: 20px; }
+.small { font-size: 14px; }
+.italic { font-style: italic; }
+
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+
+<rect width="985px" height="180px" fill="#f6f8fa" rx="15"/>
+
+<text x = "492.5" y="10" fill="#24292f">
+<tspan x = "492.5" y="10"></tspan>
+<tspan x = "492.5" y="45" class="cc" font-weight="bold">Game Engines & Software Móvil</tspan>
+
+<tspan x = "492.5" y="75" class="value">Desarrollo integral de videojuegos indie y aplicaciones móviles,</tspan>
+<tspan x = "492.5" y="92" class="value">utilizando motores y plataformas profesionales como Unity, Unreal Engine,</tspan>
+<tspan x = "492.5" y="109" class="value">Godot, GameMaker Studio y Android Studio.</tspan>
+</text>
+</svg>
