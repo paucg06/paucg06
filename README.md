@@ -37,37 +37,37 @@
     </picture>
 </p>
 
-<!-- Lenguajes Programacion -->
+<!-- Lenguajes de Programacion -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_prog.svg?v=2">
-  <img alt="Lenguajes de Programacion" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_prog.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_prog.svg?v=3">
+  <img alt="Lenguajes de Programacion" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_prog.svg?v=3">
 </picture>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py&perline=10" />
 </p>
 
-<!-- Programacion Web & Bases de Datos -->
+<!-- Webs y Bases de Datos -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_web.svg?v=2">
-  <img alt="Programacion Web y Bases de Datos" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_web.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_web.svg?v=3">
+  <img alt="Webs y Bases de Datos" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_web.svg?v=3">
 </picture>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,mysql,sqlite&perline=10" />
 </p>
 
-<!-- Control de Versiones & IDEs -->
+<!-- Control de Versiones e IDEs -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_ides.svg?v=2">
-  <img alt="Control de Versiones y IDEs" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_ides.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_ides.svg?v=3">
+  <img alt="Control de Versiones e IDEs" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_ides.svg?v=3">
 </picture>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,sublime&perline=10" />
 </p>
 
-<!-- Diseno Grafico, 2D, 3D & Vectorial -->
+<!-- Diseno Grafico -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_design.svg?v=2">
-  <img alt="Diseno Grafico 2D y 3D" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_design.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_design.svg?v=3">
+  <img alt="Diseno Grafico" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_design.svg?v=3">
 </picture>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=blender,ai,ps,figma&perline=10" />
@@ -75,17 +75,17 @@
 
 <!-- Sistemas Operativos -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_os.svg?v=2">
-  <img alt="Sistemas Operativos" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_os.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_os.svg?v=3">
+  <img alt="Sistemas Operativos" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_os.svg?v=3">
 </picture>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux&perline=10" />
 </p>
 
-<!-- Game Engines & Software Movil -->
+<!-- Game Engines y Software -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_engines.svg?v=2">
-  <img alt="Game Engines y Software Movil" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_engines.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_engines.svg?v=3">
+  <img alt="Game Engines y Software" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_engines.svg?v=3">
 </picture>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=unity,androidstudio,unreal,godot,gamemakerstudio&perline=10" />

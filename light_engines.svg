@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="180px" text-anchor="middle" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="120px" text-anchor="middle" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -21,14 +21,13 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="985px" height="180px" fill="#f6f8fa" rx="15"/>
+<rect width="985px" height="120px" fill="#f6f8fa" rx="15"/>
 
 <text x = "492.5" y="10" fill="#24292f">
 <tspan x = "492.5" y="10"></tspan>
-<tspan x = "492.5" y="45" class="cc" font-weight="bold">Game Engines y Software Móvil</tspan>
+<tspan x = "492.5" y="38" class="cc" font-weight="bold">Game Engines y Software</tspan>
 
-<tspan x = "492.5" y="75" class="value">Desarrollo integral de videojuegos indie y aplicaciones móviles,</tspan>
-<tspan x = "492.5" y="92" class="value">utilizando motores y plataformas profesionales como Unity, Unreal Engine,</tspan>
-<tspan x = "492.5" y="109" class="value">Godot, GameMaker Studio y Android Studio.</tspan>
+<tspan x = "492.5" y="68" class="value">Desarrollo de videojuegos indie con Unity, Unreal Engine, Godot y GameMaker.</tspan>
+<tspan x = "492.5" y="88" class="value">Creación y despliegue de aplicaciones móviles nativas con Android Studio.</tspan>
 </text>
 </svg>
