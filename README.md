@@ -8,7 +8,7 @@
 
 <!-- Redes Sociales -->
 <p align="center">
-  <a href="https://eternodev.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/paucg06/paucg06/main/assets/eternodev_badge.svg?v=6" alt="eternodev" height="28" /></a>
+  <a href="https://eternodev.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/paucg06/paucg06/main/assets/eternodev_badge.svg?v=7" alt="eternodev" height="28" /></a>
   <a href = "https://eternodev.itch.io" target="blank"><img align="center" src="https://img.shields.io/badge/Itch.io-D14836?style=for-the-badge&logo=itch.io&logoColor=white" alt="@unsimpledev"  /></a>
   <a href="https://www.linkedin.com/in/paucg06/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="paucg06"/></a>
   <a href="https://instagram.com/eternodev/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-b7374c?style=for-the-badge&logo=instagram&logoColor=white" alt="eternodev"  /></a>
