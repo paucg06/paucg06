@@ -65,6 +65,6 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">.cremades</tspan>
 <tspan x="390" y="450">- Dev Stats</tspan> -————————————————————————————————————————————-—-
 <tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Apps Creadas</tspan>:<tspan class="cc" id="repo_data_dots"> .............................. </tspan><tspan class="value" id="repo_data">5</tspan>
-
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Juegos Creados</tspan>:<tspan class="cc" id="commit_data_dots"> .............................. </tspan><tspan class="value" id="commit_data">7</tspan>
 </text>
 </svg>
