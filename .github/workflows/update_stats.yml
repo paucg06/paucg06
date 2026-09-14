@@ -1,0 +1,44 @@
+﻿name: Update Dynamic Profile Stats
+
+on:
+  schedule:
+    # Se ejecuta todos los días a medianoche (UTC)
+    - cron: '0 0 * * *'
+  # Permite ejecutarlo manualmente con un solo clic desde la pestaña Actions
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Ejecutar script de actualización de estadísticas
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_stats.py
+
+      - name: Guardar y subir cambios si hay actualizaciones
+        run: |
+          git config user.name "Pau Cremades García"
+          git config user.email "paucremades06@gmail.com"
+          git add dark_mode.svg light_mode.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: auto-update dynamic profile stats [skip ci]"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "No hay cambios nuevos en las estadísticas."
+          fi
