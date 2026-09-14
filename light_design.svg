@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="105px" text-anchor="middle" font-size="15px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="115px" text-anchor="middle" font-size="15px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -14,11 +14,11 @@ size-adjust: 109%;
 .title {fill: #616e7f; font-weight: bold; font-size: 16px;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="105px" fill="#f6f8fa" rx="15"/>
+<rect width="985px" height="115px" fill="#f6f8fa" rx="15"/>
 <text x="492.5" y="10" fill="#24292f">
 <tspan x="492.5" y="34" class="title">Diseño Gráfico</tspan>
 
-<tspan x="492.5" y="62" class="value">Modelado <tspan class="key">3D</tspan>, arte <tspan class="key">2D</tspan> y diseño de interfaces <tspan class="key">UI/UX</tspan>.</tspan>
-<tspan x="492.5" y="84" class="value">Creación de assets con <tspan class="key">Blender</tspan>, <tspan class="key">Photoshop</tspan>, <tspan class="key">Illustrator</tspan> y <tspan class="key">Figma</tspan>.</tspan>
+<tspan x="492.5" y="62" class="value">Modelado <tspan class="key" font-weight="bold">3D</tspan>, arte <tspan class="key" font-weight="bold">2D</tspan> y diseño de interfaces <tspan class="key" font-weight="bold">UI/UX</tspan>.</tspan>
+<tspan x="492.5" y="84" class="value">Creación de assets con <tspan class="key" font-weight="bold">Blender</tspan>, <tspan class="key" font-weight="bold">Photoshop</tspan>, <tspan class="key" font-weight="bold">Illustrator</tspan> y <tspan class="key" font-weight="bold">Figma</tspan>.</tspan>
 </text>
 </svg>

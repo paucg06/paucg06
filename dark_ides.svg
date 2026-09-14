@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="105px" text-anchor="middle" font-size="15px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="115px" text-anchor="middle" font-size="15px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -14,11 +14,11 @@ size-adjust: 109%;
 .title {fill: #616e7f; font-weight: bold; font-size: 16px;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="105px" fill="#161b22" rx="15"/>
+<rect width="985px" height="115px" fill="#161b22" rx="15"/>
 <text x="492.5" y="10" fill="#c9d1d9">
 <tspan x="492.5" y="34" class="title">Versiones e IDEs</tspan>
 
-<tspan x="492.5" y="62" class="value">Control de versiones y trabajo colaborativo mediante <tspan class="key">Git</tspan> y <tspan class="key">GitHub</tspan>.</tspan>
-<tspan x="492.5" y="84" class="value">Entornos de desarrollo en <tspan class="key">VS Code</tspan>, <tspan class="key">Visual Studio</tspan> y <tspan class="key">Sublime Text</tspan>.</tspan>
+<tspan x="492.5" y="62" class="value">Control de versiones y trabajo colaborativo mediante <tspan class="key" font-weight="bold">Git</tspan> y <tspan class="key" font-weight="bold">GitHub</tspan>.</tspan>
+<tspan x="492.5" y="84" class="value">Entornos de desarrollo en <tspan class="key" font-weight="bold">VS Code</tspan>, <tspan class="key" font-weight="bold">Visual Studio</tspan> y <tspan class="key" font-weight="bold">Sublime Text</tspan>.</tspan>
 </text>
 </svg>

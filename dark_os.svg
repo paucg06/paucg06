@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="105px" text-anchor="middle" font-size="15px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="115px" text-anchor="middle" font-size="15px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -14,11 +14,11 @@ size-adjust: 109%;
 .title {fill: #616e7f; font-weight: bold; font-size: 16px;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="105px" fill="#161b22" rx="15"/>
+<rect width="985px" height="115px" fill="#161b22" rx="15"/>
 <text x="492.5" y="10" fill="#c9d1d9">
 <tspan x="492.5" y="34" class="title">Sistemas Operativos</tspan>
 
-<tspan x="492.5" y="62" class="value">Desarrollo, testing y compilación en plataformas <tspan class="key">Windows</tspan>.</tspan>
-<tspan x="492.5" y="84" class="value">Automatización, soporte y despliegue en entornos <tspan class="key">Linux</tspan> y <tspan class="key">Ubuntu</tspan>.</tspan>
+<tspan x="492.5" y="62" class="value">Desarrollo, testing y compilación en plataformas <tspan class="key" font-weight="bold">Windows</tspan>.</tspan>
+<tspan x="492.5" y="84" class="value">Automatización, soporte y despliegue en entornos <tspan class="key" font-weight="bold">Linux</tspan> y <tspan class="key" font-weight="bold">Ubuntu</tspan>.</tspan>
 </text>
 </svg>
