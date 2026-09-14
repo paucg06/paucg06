@@ -75,7 +75,7 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
-  <img alt="github-snake" src="./assets/github-snake.svg" style="width: 100%;" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/paucg06/paucg06/output/github-snake.svg" style="width: 100%;" />
 </picture>
