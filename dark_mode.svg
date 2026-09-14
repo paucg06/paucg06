@@ -64,8 +64,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">paucg06</tspan>
 <tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">.cremades</tspan>
 <tspan x="390" y="450">- Dev Stats</tspan> -————————————————————————————————————————————-—-
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Apps Creadas</tspan>:<tspan class="cc" id="repo_data_dots"> ................... </tspan><tspan class="value" id="repo_data">5</tspan> | <tspan class="key">IAs Usadas</tspan>:<tspan class="cc" id="star_data_dots"> </tspan><tspan class="value" id="star_data">ChatGPT,</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Juegos Creados</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">7</tspan> | <tspan class="key"></tspan><tspan class="cc" id="follower_data_dots"></tspan><tspan class="value" id="follower_data">Gemini, RapidNative</tspan>
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Apps Creadas</tspan>:<tspan class="cc" id="repo_data_dots"> .............................. </tspan><tspan class="value" id="repo_data">5</tspan>
 
 </text>
 </svg>
