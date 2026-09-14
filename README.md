@@ -8,7 +8,7 @@
 
 <!-- Redes Sociales -->
 <p align="center">
-  <a href="https://eternodev.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/paucg06/paucg06/main/eternodev_badge.svg" alt="eternodev" height="28" /></a>
+  <a href="https://eternodev.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/paucg06/paucg06/main/eternodev_badge.svg?v=2" alt="eternodev" height="28" /></a>
   <a href = "https://eternodev.itch.io" target="blank"><img align="center" src="https://img.shields.io/badge/Itch.io-D14836?style=for-the-badge&logo=itch.io&logoColor=white" alt="@unsimpledev"  /></a>
   <a href="https://www.linkedin.com/in/paucg06/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="paucg06"/></a>
   <a href="https://instagram.com/eternodev/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-b7374c?style=for-the-badge&logo=instagram&logoColor=white" alt="eternodev"  /></a>
@@ -39,8 +39,8 @@
 
 <!-- Lenguajes Programacion -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_prog.svg">
-  <img alt="Lenguajes de Programacion" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_prog.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_prog.svg?v=2">
+  <img alt="Lenguajes de Programacion" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_prog.svg?v=2">
 </picture>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py&perline=10" />
@@ -48,8 +48,8 @@
 
 <!-- Programacion Web & Bases de Datos -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_web.svg">
-  <img alt="Programacion Web y Bases de Datos" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_web.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_web.svg?v=2">
+  <img alt="Programacion Web y Bases de Datos" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_web.svg?v=2">
 </picture>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,mysql,sqlite&perline=10" />
@@ -57,8 +57,8 @@
 
 <!-- Control de Versiones & IDEs -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_ides.svg">
-  <img alt="Control de Versiones y IDEs" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_ides.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_ides.svg?v=2">
+  <img alt="Control de Versiones y IDEs" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_ides.svg?v=2">
 </picture>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,sublime&perline=10" />
@@ -66,8 +66,8 @@
 
 <!-- Diseno Grafico, 2D, 3D & Vectorial -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_design.svg">
-  <img alt="Diseno Grafico 2D y 3D" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_design.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_design.svg?v=2">
+  <img alt="Diseno Grafico 2D y 3D" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_design.svg?v=2">
 </picture>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=blender,ai,ps,figma&perline=10" />
@@ -75,8 +75,8 @@
 
 <!-- Sistemas Operativos -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_os.svg">
-  <img alt="Sistemas Operativos" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_os.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_os.svg?v=2">
+  <img alt="Sistemas Operativos" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_os.svg?v=2">
 </picture>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux&perline=10" />
@@ -84,8 +84,8 @@
 
 <!-- Game Engines & Software Movil -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_engines.svg">
-  <img alt="Game Engines y Software Movil" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_engines.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/main/dark_engines.svg?v=2">
+  <img alt="Game Engines y Software Movil" src="https://raw.githubusercontent.com/paucg06/paucg06/main/light_engines.svg?v=2">
 </picture>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=unity,androidstudio,unreal,godot,gamemakerstudio&perline=10" />

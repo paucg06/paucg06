@@ -23,7 +23,7 @@ text, tspan {white-space: pre;}
 <rect width="985px" height="180px" fill="#161b22" rx="15"/>
 <text x = "492.5" y="10" fill="#c9d1d9">
 <tspan x = "492.5" y="10"></tspan>
-<tspan x = "492.5" y="45" class="cc" font-weight="bold">Diseño Gráfico, 2D, 3D &amp; Vectorial</tspan>
+<tspan x = "492.5" y="45" class="cc" font-weight="bold">Diseño Gráfico, 2D, 3D y Vectorial</tspan>
 
 <tspan x = "492.5" y="75" class="value">Creación y modelado 3D, arte 2D y diseño vectorial para interfaces (UI/UX),</tspan>
 <tspan x = "492.5" y="92" class="value">fondos, personajes y animaciones en videojuegos y aplicaciones</tspan>
