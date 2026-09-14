@@ -25,7 +25,7 @@ text, tspan {white-space: pre;}
 
 <text x = "492.5" y="10" fill="#24292f">
 <tspan x = "492.5" y="10"></tspan>
-<tspan x = "492.5" y="45" class="cc" font-weight="bold">Programación Web & Bases de Datos</tspan>
+<tspan x = "492.5" y="45" class="cc" font-weight="bold">Programación Web &amp; Bases de Datos</tspan>
 
 <tspan x = "492.5" y="75" class="value">Desarrollo de aplicaciones y plataformas web modernas y dinámicas,</tspan>
 <tspan x = "492.5" y="92" class="value">con diseño responsive e interactivo usando HTML5, CSS3 y JavaScript,</tspan>

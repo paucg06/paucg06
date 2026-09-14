@@ -25,7 +25,7 @@ text, tspan {white-space: pre;}
 
 <text x = "492.5" y="10" fill="#24292f">
 <tspan x = "492.5" y="10"></tspan>
-<tspan x = "492.5" y="45" class="cc" font-weight="bold">Game Engines & Software Móvil</tspan>
+<tspan x = "492.5" y="45" class="cc" font-weight="bold">Game Engines &amp; Software Móvil</tspan>
 
 <tspan x = "492.5" y="75" class="value">Desarrollo integral de videojuegos indie y aplicaciones móviles,</tspan>
 <tspan x = "492.5" y="92" class="value">utilizando motores y plataformas profesionales como Unity, Unreal Engine,</tspan>
