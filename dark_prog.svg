@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="120px" text-anchor="middle" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="105px" text-anchor="middle" font-size="15px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -9,23 +9,16 @@ font-display: swap;
 size-adjust: 109%;
 }
   
-.big { font-size: 20px; }
-.small { font-size: 14px; }
-.italic { font-style: italic; }
-
-.key {fill: #ffa657;}
+.key {fill: #ffa657; font-weight: bold;}
 .value {fill: #a5d6ff;}
-.addColor {fill: #3fb950;}
-.delColor {fill: #f85149;}
-.cc {fill: #616e7f;}
+.title {fill: #616e7f; font-weight: bold; font-size: 16px;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="120px" fill="#161b22" rx="15"/>
-<text x = "492.5" y="10" fill="#c9d1d9">
-<tspan x = "492.5" y="10"></tspan>
-<tspan x = "492.5" y="38" class="cc" font-weight="bold">Lenguajes de Programación</tspan>
+<rect width="985px" height="105px" fill="#161b22" rx="15"/>
+<text x="492.5" y="10" fill="#c9d1d9">
+<tspan x="492.5" y="34" class="title">Lenguajes de Programación</tspan>
 
-<tspan x = "492.5" y="68" class="value">Programador versátil especializado en el desarrollo de aplicaciones y videojuegos.</tspan>
-<tspan x = "492.5" y="88" class="value">Dominio de múltiples lenguajes e integración de IA para acelerar mis proyectos.</tspan>
+<tspan x="492.5" y="62" class="value">Desarrollador enfocado en <tspan class="key">videojuegos</tspan> y <tspan class="key">aplicaciones móviles</tspan>.</tspan>
+<tspan x="492.5" y="84" class="value">Dominio de múltiples lenguajes e integración de <tspan class="key">herramientas de IA</tspan>.</tspan>
 </text>
 </svg>
