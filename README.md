@@ -97,3 +97,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paucg06/paucg06/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/paucg06/paucg06/output/github-snake.svg" style="width: 100%;" />
 </picture>
+
+<!-- More Information -->
+<p align="center">
+  <a href="https://github.com/Eterno-Dev/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/dark_svg/more-information-dark.svg?v=2">
+      <img alt="More Information" src="./assets/light_svg/more-information-light.svg?v=2" width="500">
+    </picture>
+  </a>
+</p>
