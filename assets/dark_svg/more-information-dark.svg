@@ -2,8 +2,8 @@
   <title id="title">More information</title>
   <desc id="desc">Animated downward arrow linking to the GitHub profile.</desc>
   <style>
-    .label { font-family: ConsolasFallback, Consolas, "Courier New", monospace; font-size: 18px; font-weight: 700; letter-spacing: 3.5px; fill: #953800; }
-    .arrow { fill: #953800; animation: bounce 1.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .label { font-family: ConsolasFallback, Consolas, "Courier New", monospace; font-size: 18px; font-weight: 700; letter-spacing: 3.5px; fill: #FFA657; }
+    .arrow { fill: #FFA657; animation: bounce 1.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
     @keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(8px); } }
     @media (prefers-reduced-motion: reduce) { .arrow { animation: none; } }
   </style>
