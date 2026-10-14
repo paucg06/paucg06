@@ -362,7 +362,7 @@ const createSvg = (grid, cells, chain, drawOptions, animationOptions) => {
       height,
       xmlns: 'http://www.w3.org/2000/svg'
     }).replace('/>', '>'),
-    '<desc>Generated with custom multi-user snake generator for paucg06 & Eterno-Dev</desc>',
+    '<desc>Generated with custom multi-user snake generator for paucg06 and Eterno-Dev</desc>',
     '<style>',
     minifyCss(style),
     '</style>',
