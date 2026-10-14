@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="76" viewBox="0 0 500 76" role="img" aria-labelledby="title desc">
+  <title id="title">More information</title>
+  <desc id="desc">Animated downward arrow linking to the GitHub profile.</desc>
+  <style>
+    .label { font-family: ConsolasFallback, Consolas, "Courier New", monospace; font-size: 18px; font-weight: 700; letter-spacing: 3.5px; fill: #953800; }
+    .arrow { fill: #953800; animation: bounce 1.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(8px); } }
+    @media (prefers-reduced-motion: reduce) { .arrow { animation: none; } }
+  </style>
+  <text class="label" x="250" y="25" text-anchor="middle">MORE INFORMATION</text>
+  <path class="arrow" d="M235 43 L250 58 L265 43 L260 38 L250 48 L240 38 Z"/>
+</svg>
